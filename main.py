@@ -19,8 +19,8 @@ def picking_item(clothes, filename, outputname):
         else:
             f.write("No items found in search\n")
 def main():
-    parser = argparse.ArgumentParser(description="Search for a clothing item in the file.")
-    parser.add_argument("clothes", type=str, help="The type of clothes to search for in the file.")
+    parser = argparse.ArgumentParser(description="Search for a item in file: ")
+    parser.add_argument("clothes", type=str, help="What you are looking for in the file.")
     parser.add_argument("filename", type=str, help="The name of the file to search in.")
     parser.add_argument("outputname", type=str, help="The name of the output file to write in.")
     args = parser.parse_args()
