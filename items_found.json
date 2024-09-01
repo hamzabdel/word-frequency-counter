@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Nike Air Max 270",
+        "price": "$150.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 97",
+        "price": "$170.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 90",
+        "price": "$120.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 95",
+        "price": "$160.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 720",
+        "price": "$180.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max Pre-Day",
+        "price": "$130.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 2090",
+        "price": "$150.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 1",
+        "price": "$130.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 180",
+        "price": "$140.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max Plus",
+        "price": "$160.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 2021",
+        "price": "$140.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max Excee",
+        "price": "$110.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 98",
+        "price": "$160.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 95 Premium",
+        "price": "$160.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 97 OG",
+        "price": "$170.00",
+        "type": "Shoes"
+    },
+    {
+        "name": "Nike Air Max 270 React",
+        "price": "$160.00",
+        "type": "Shoes"
+    }
+]

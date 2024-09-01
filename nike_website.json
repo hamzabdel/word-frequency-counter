@@ -1,0 +1,314 @@
+{
+  "items": [
+    {
+      "name": "Nike Air Force 1 '07",
+      "price": "$90.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 270",
+      "price": "$150.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Dunk Low",
+      "price": "$100.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike SB Dunk Low",
+      "price": "$120.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike React Infinity Run Flyknit",
+      "price": "$160.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Zoom Pegasus 38",
+      "price": "$120.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike LeBron 19",
+      "price": "$200.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Zoom Structure 24",
+      "price": "$130.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 97",
+      "price": "$170.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Jordan 1 Mid",
+      "price": "$140.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Everyday Cushioned Training Crew Socks",
+      "price": "$20.00",
+      "type": "Socks"
+    },
+    {
+      "name": "Nike Performance Cotton Crew Socks",
+      "price": "$15.00",
+      "type": "Socks"
+    },
+    {
+      "name": "Nike SB Everyday Max Crew Socks",
+      "price": "$18.00",
+      "type": "Socks"
+    },
+    {
+      "name": "Nike Dri-FIT Cushion Crew Socks",
+      "price": "$25.00",
+      "type": "Socks"
+    },
+    {
+      "name": "Nike Sportswear T-Shirt",
+      "price": "$30.00",
+      "type": "Shirts"
+    },
+    {
+      "name": "Nike Dri-FIT Miler Running Top",
+      "price": "$40.00",
+      "type": "Shirts"
+    },
+    {
+      "name": "Nike Pro Short Sleeve Shirt",
+      "price": "$35.00",
+      "type": "Shirts"
+    },
+    {
+      "name": "Nike Sportswear Essentials",
+      "price": "$45.00",
+      "type": "Shirts"
+    },
+    {
+      "name": "Nike Heritage Backpack",
+      "price": "$50.00",
+      "type": "Backpacks"
+    },
+    {
+      "name": "Nike Academy Team Backpack",
+      "price": "$55.00",
+      "type": "Backpacks"
+    },
+    {
+      "name": "Nike SB Courthouse Backpack",
+      "price": "$60.00",
+      "type": "Backpacks"
+    },
+    {
+      "name": "Nike Elemental Backpack",
+      "price": "$40.00",
+      "type": "Backpacks"
+    },
+    {
+      "name": "Nike Club Fleece Hoodie",
+      "price": "$70.00",
+      "type": "Hoodies"
+    },
+    {
+      "name": "Nike Sportswear Tech Fleece Hoodie",
+      "price": "$90.00",
+      "type": "Hoodies"
+    },
+    {
+      "name": "Nike Dri-FIT Hoodie",
+      "price": "$75.00",
+      "type": "Hoodies"
+    },
+    {
+      "name": "Nike Sportswear Essential Hoodie",
+      "price": "$65.00",
+      "type": "Hoodies"
+    },
+    {
+      "name": "Nike Sportswear Pants",
+      "price": "$55.00",
+      "type": "Pants"
+    },
+    {
+      "name": "Nike Dri-FIT Training Pants",
+      "price": "$60.00",
+      "type": "Pants"
+    },
+    {
+      "name": "Nike Sportswear Essential Fleece Pants",
+      "price": "$65.00",
+      "type": "Pants"
+    },
+    {
+      "name": "Nike Pro Pants",
+      "price": "$50.00",
+      "type": "Pants"
+    },
+    {
+      "name": "Nike Sportswear Shorts",
+      "price": "$40.00",
+      "type": "Shorts"
+    },
+    {
+      "name": "Nike Dri-FIT Flex Shorts",
+      "price": "$45.00",
+      "type": "Shorts"
+    },
+    {
+      "name": "Nike Pro Training Shorts",
+      "price": "$35.00",
+      "type": "Shorts"
+    },
+    {
+      "name": "Nike Sportswear Essential Shorts",
+      "price": "$50.00",
+      "type": "Shorts"
+    },
+    {
+      "name": "Nike Tech Fleece Joggers",
+      "price": "$75.00",
+      "type": "Sweatpants"
+    },
+    {
+      "name": "Nike Dri-FIT Sweatpants",
+      "price": "$70.00",
+      "type": "Sweatpants"
+    },
+    {
+      "name": "Nike Sportswear Club Fleece Joggers",
+      "price": "$65.00",
+      "type": "Sweatpants"
+    },
+    {
+      "name": "Nike Essentials Joggers",
+      "price": "$60.00",
+      "type": "Sweatpants"
+    },
+    {
+      "name": "Nike Air Zoom Alphafly NEXT%",
+      "price": "$275.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike ZoomX Vaporfly NEXT%",
+      "price": "$250.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 90",
+      "price": "$120.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 95",
+      "price": "$160.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 720",
+      "price": "$180.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max Pre-Day",
+      "price": "$130.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Zoom Terra Kiger 7",
+      "price": "$140.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 2090",
+      "price": "$150.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike SB Dunk High",
+      "price": "$130.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Zoom SuperRep 2",
+      "price": "$120.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 1",
+      "price": "$130.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 180",
+      "price": "$140.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Force 1 Low",
+      "price": "$100.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Zoom Wildhorse 7",
+      "price": "$130.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max Plus",
+      "price": "$160.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 2021",
+      "price": "$140.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Zoom Pegasus Turbo 2",
+      "price": "$180.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max Excee",
+      "price": "$110.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 98",
+      "price": "$160.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Zoom Freak 2",
+      "price": "$130.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 95 Premium",
+      "price": "$160.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 97 OG",
+      "price": "$170.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Air Max 270 React",
+      "price": "$160.00",
+      "type": "Shoes"
+    },
+    {
+      "name": "Nike Sportswear Club Fleece",
+      "price": "$70.00",
+      "type": "Hoodies"
+    }
+  ]
+}
